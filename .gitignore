@@ -6,3 +6,7 @@
 .idea/.idea.MapMaker2021/.idea/vcs.xml
 /.idea
 /MapMaker2021
+GUI/obj/Debug/net5.0-windows/GUI_MarkupCompile.cache
+Data/obj/Debug/net5.0/Data.csprojAssemblyReference.cache
+Data.Test/obj/Debug/net5.0/Data.Test.csprojAssemblyReference.cache
+GUI/obj/Debug/net5.0-windows/MainWindow.baml
